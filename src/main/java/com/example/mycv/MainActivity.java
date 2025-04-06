@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     TextInputEditText editText;
     Button predictButton;
 
-    private final String API_KEY = "AIzaSyCTYY67DvaSgA7kekAfbvgqr9sI0yV3NnM";
+    private final String API_KEY = "7DvaSgA7kekAfbvgqr9sI0yV3NnM";
     private final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY;
 
     @SuppressLint("MissingInflatedId")
