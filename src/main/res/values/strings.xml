@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <string name="_21522508_gm_uit_edu_vn">21522508@gm.uit.edu.vn</string>
+    <string name="dang_huu_quang">Dang Huu Quang</string>
+    <string name="profile">Profile</string>
+    <string name="education">Education</string>
+    <string name="todo">TODO</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="uit">UIT</string>
+    <string name="title_activity_positive">Positive</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="input_your_sentence">Input your sentence</string>
+    <string name="submit">Submit</string>
+</resources>
